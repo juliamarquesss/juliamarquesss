@@ -1,8 +1,8 @@
 Olá! Eu sou a Júlia (●'◡'●) 
 
 
-- 👾 Me especializando em front-end
-- ⚡ Aprendendo JavaScript
+- 👾 Estudante de Engenharia de Software
+- ⚡ Desenvolvimento Front-End
 - ❄ Contate-me (juliamarquesdemoura02@gmail.com)
 
 <div align="center">
