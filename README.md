@@ -1,4 +1,4 @@
-Olá! Eu sou a Júlia (●'◡'●) 
+Olá! (●'◡'●) 
 
 
 - 👾 Estudante de Engenharia de Software
